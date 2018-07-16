@@ -8,8 +8,10 @@ This file contains all variables that control the experiment, such as datasets t
 
 ##### Datasets
 
-**FER**: Plus is publicaly available at:
+**FER**: Plus is publicaly available at: [https://github.com/Microsoft/FERPlus](https://github.com/Microsoft/FERPlus)
+
 **RAF**: Can be obtained with the authors of its corresponding paper.
+
 **QIDER**: Can be obtained via e-mail to one of the authors of this paper.
 
 ##### Dependencies
